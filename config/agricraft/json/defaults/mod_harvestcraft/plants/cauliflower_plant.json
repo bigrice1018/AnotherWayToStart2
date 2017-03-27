@@ -1,6 +1,6 @@
 {
-  "path": "mod_harvestcraft/plants/cauliflower_plant.json",
   "enabled": true,
+  "path": "mod_harvestcraft/plants/cauliflower_plant.json",
   "id": "cauliflower_crop",
   "plant_name": "Cauliflower",
   "seed_name": "Cauliflower Seeds",

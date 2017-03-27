@@ -1,6 +1,6 @@
 {
-  "path": "mod_harvestcraft/plants/tomato_plant.json",
   "enabled": true,
+  "path": "mod_harvestcraft/plants/tomato_plant.json",
   "id": "tomato_crop",
   "plant_name": "Tomato",
   "seed_name": "Tomato Seeds",

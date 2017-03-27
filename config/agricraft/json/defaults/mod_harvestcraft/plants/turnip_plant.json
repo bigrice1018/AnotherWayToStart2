@@ -1,6 +1,6 @@
 {
-  "path": "mod_harvestcraft/plants/turnip_plant.json",
   "enabled": true,
+  "path": "mod_harvestcraft/plants/turnip_plant.json",
   "id": "turnip_crop",
   "plant_name": "Turnip",
   "seed_name": "Turnip Seeds",

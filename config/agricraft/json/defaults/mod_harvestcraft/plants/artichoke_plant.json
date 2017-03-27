@@ -1,6 +1,6 @@
 {
-  "path": "mod_harvestcraft/plants/artichoke_plant.json",
   "enabled": true,
+  "path": "mod_harvestcraft/plants/artichoke_plant.json",
   "id": "artichoke_crop",
   "plant_name": "Artichoke",
   "seed_name": "Artichoke Seeds",

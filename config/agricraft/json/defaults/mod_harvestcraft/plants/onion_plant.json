@@ -1,6 +1,6 @@
 {
-  "path": "mod_harvestcraft/plants/onion_plant.json",
   "enabled": true,
+  "path": "mod_harvestcraft/plants/onion_plant.json",
   "id": "onion_crop",
   "plant_name": "Onion",
   "seed_name": "Onion Seeds",

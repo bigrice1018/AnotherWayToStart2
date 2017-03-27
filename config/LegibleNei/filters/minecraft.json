@@ -1,6 +1,6 @@
 {
 minecraft:[
     {keep:[[wool,stained*,carpet,banner],[0]]};
-    {keep-one:[[spawn_egg,*potion,*book,*arrow],[0]]};
+    {keep-one:[[spawn_egg,*book,*arrow],[0]]};
 ]
 }

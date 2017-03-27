@@ -1,6 +1,6 @@
 {
-  "path": "vanilla/soils/mycelium_soil.json",
   "enabled": true,
+  "path": "vanilla/soils/mycelium_soil.json",
   "id": "mycelium_soil",
   "name": "Mycelium",
   "varients": [

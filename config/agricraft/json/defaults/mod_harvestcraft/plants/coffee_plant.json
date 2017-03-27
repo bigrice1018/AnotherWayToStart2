@@ -1,6 +1,6 @@
 {
-  "path": "mod_harvestcraft/plants/coffee_plant.json",
   "enabled": true,
+  "path": "mod_harvestcraft/plants/coffee_plant.json",
   "id": "coffee_crop",
   "plant_name": "Coffee",
   "seed_name": "Coffee Seeds",

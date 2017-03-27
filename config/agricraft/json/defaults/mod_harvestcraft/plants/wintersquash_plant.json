@@ -1,6 +1,6 @@
 {
-  "path": "mod_harvestcraft/plants/wintersquash_plant.json",
   "enabled": true,
+  "path": "mod_harvestcraft/plants/wintersquash_plant.json",
   "id": "wintersquash_crop",
   "plant_name": "Winter Squash",
   "seed_name": "Winter Squash Seeds",

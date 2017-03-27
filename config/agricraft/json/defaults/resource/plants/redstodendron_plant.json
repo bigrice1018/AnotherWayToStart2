@@ -1,6 +1,6 @@
 {
-  "path": "resource/plants/redstodendron_plant.json",
   "enabled": true,
+  "path": "resource/plants/redstodendron_plant.json",
   "id": "redstodendron_plant",
   "plant_name": "Redstodendron",
   "seed_name": "Red Seeds",

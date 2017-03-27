@@ -1,6 +1,6 @@
 {
-  "path": "mod_harvestcraft/plants/candleberry_plant.json",
   "enabled": true,
+  "path": "mod_harvestcraft/plants/candleberry_plant.json",
   "id": "candleberry_crop",
   "plant_name": "Candleberry",
   "seed_name": "Candleberry Seeds",

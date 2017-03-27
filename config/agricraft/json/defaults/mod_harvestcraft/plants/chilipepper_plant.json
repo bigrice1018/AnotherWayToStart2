@@ -1,6 +1,6 @@
 {
-  "path": "mod_harvestcraft/plants/chilipepper_plant.json",
   "enabled": true,
+  "path": "mod_harvestcraft/plants/chilipepper_plant.json",
   "id": "chilipepper_crop",
   "plant_name": "Chili Pepper",
   "seed_name": "Chili Pepper Seeds",

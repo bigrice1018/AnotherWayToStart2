@@ -1,6 +1,6 @@
 {
-  "path": "vanilla/soils/soul_sand_soil.json",
   "enabled": true,
+  "path": "vanilla/soils/soul_sand_soil.json",
   "id": "soul_sand_soil",
   "name": "Soul Sand",
   "varients": [

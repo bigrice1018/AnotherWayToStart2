@@ -1,6 +1,6 @@
 {
-  "path": "mod_harvestcraft/plants/barley_plant.json",
   "enabled": true,
+  "path": "mod_harvestcraft/plants/barley_plant.json",
   "id": "barley_crop",
   "plant_name": "Barley",
   "seed_name": "Barley Seeds",

@@ -1,6 +1,6 @@
 {
-  "path": "mod_harvestcraft/plants/peanut_plant.json",
   "enabled": true,
+  "path": "mod_harvestcraft/plants/peanut_plant.json",
   "id": "peanut_crop",
   "plant_name": "Peanut",
   "seed_name": "Peanut Seeds",

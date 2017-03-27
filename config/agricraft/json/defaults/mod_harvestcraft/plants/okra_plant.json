@@ -1,6 +1,6 @@
 {
-  "path": "mod_harvestcraft/plants/okra_plant.json",
   "enabled": true,
+  "path": "mod_harvestcraft/plants/okra_plant.json",
   "id": "okra_crop",
   "plant_name": "Okra",
   "seed_name": "Okra Seeds",

@@ -1,6 +1,6 @@
 {
-  "path": "mod_harvestcraft/plants/zucchini_plant.json",
   "enabled": true,
+  "path": "mod_harvestcraft/plants/zucchini_plant.json",
   "id": "zucchini_crop",
   "plant_name": "Zucchini",
   "seed_name": "Zucchini Seeds",

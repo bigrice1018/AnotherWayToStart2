@@ -1,6 +1,6 @@
 {
-  "path": "mod_harvestcraft/plants/celery_plant.json",
   "enabled": true,
+  "path": "mod_harvestcraft/plants/celery_plant.json",
   "id": "celery_crop",
   "plant_name": "Celery",
   "seed_name": "Celery Seeds",

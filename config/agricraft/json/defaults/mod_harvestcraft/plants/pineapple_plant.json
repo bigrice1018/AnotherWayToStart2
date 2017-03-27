@@ -1,6 +1,6 @@
 {
-  "path": "mod_harvestcraft/plants/pineapple_plant.json",
   "enabled": true,
+  "path": "mod_harvestcraft/plants/pineapple_plant.json",
   "id": "pineapple_crop",
   "plant_name": "Pineapple",
   "seed_name": "Pineapple Seeds",

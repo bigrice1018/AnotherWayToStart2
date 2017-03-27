@@ -1,6 +1,6 @@
 {
-  "path": "vanilla/soils/sand_soil.json",
   "enabled": true,
+  "path": "vanilla/soils/sand_soil.json",
   "id": "sand_soil",
   "name": "Sand",
   "varients": [

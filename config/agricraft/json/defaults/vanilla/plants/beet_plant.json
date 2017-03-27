@@ -1,6 +1,6 @@
 {
-  "path": "vanilla/plants/beet_plant.json",
   "enabled": true,
+  "path": "vanilla/plants/beet_plant.json",
   "id": "beet_plant",
   "plant_name": "Beets",
   "seed_name": "Beet Seeds",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Beet. It\u0027s what\u0027s for dinner."
+    "default": "Beet. It's what's for dinner."
   },
   "growth_chance": 1.0,
   "bonemeal": true,

@@ -16,6 +16,9 @@
         "tconstruct:hatchet"
       ],
       "blocklist": [
+        "agriculturalrevolution:bamboo/0",
+        "agriculturalrevolution:palmlog/0",
+        "agriculturalrevolution:tanglelog/0",
         "biomesoplenty:leaves_0/8",
         "biomesoplenty:leaves_0/9",
         "biomesoplenty:leaves_0/10",
@@ -203,6 +206,10 @@
       ],
       "blocklist": [
         "actuallyadditions:blockMisc/3",
+        "agriculturalrevolution:orecopper/0",
+        "agriculturalrevolution:orezinc/0",
+        "agriculturalrevolution:saltore/0",
+        "agriculturalrevolution:uraniumore/0",
         "appliedenergistics2:charged_quartz_ore/0",
         "appliedenergistics2:quartz_ore/0",
         "arsmagica2:ore/0",

@@ -1,6 +1,6 @@
 {
-  "path": "mod_harvestcraft/plants/rutabaga_plant.json",
   "enabled": true,
+  "path": "mod_harvestcraft/plants/rutabaga_plant.json",
   "id": "rutabaga_crop",
   "plant_name": "Rutabaga",
   "seed_name": "Rutabaga Seeds",

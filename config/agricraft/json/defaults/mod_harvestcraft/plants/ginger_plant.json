@@ -1,6 +1,6 @@
 {
-  "path": "mod_harvestcraft/plants/ginger_plant.json",
   "enabled": true,
+  "path": "mod_harvestcraft/plants/ginger_plant.json",
   "id": "ginger_crop",
   "plant_name": "Ginger",
   "seed_name": "Ginger Seeds",

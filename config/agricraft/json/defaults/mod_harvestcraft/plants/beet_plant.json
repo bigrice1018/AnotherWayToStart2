@@ -1,6 +1,6 @@
 {
-  "path": "mod_harvestcraft/plants/beet_plant.json",
   "enabled": true,
+  "path": "mod_harvestcraft/plants/beet_plant.json",
   "id": "beet_crop",
   "plant_name": "Beet",
   "seed_name": "Beet Seeds",

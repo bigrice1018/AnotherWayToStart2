@@ -1,6 +1,6 @@
 {
-  "path": "mod_harvestcraft/plants/eggplant_plant.json",
   "enabled": true,
+  "path": "mod_harvestcraft/plants/eggplant_plant.json",
   "id": "eggplant_crop",
   "plant_name": "Eggplant",
   "seed_name": "Eggplant Seeds",

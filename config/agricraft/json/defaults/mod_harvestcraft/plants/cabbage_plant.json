@@ -1,6 +1,6 @@
 {
-  "path": "mod_harvestcraft/plants/cabbage_plant.json",
   "enabled": true,
+  "path": "mod_harvestcraft/plants/cabbage_plant.json",
   "id": "cabbage_crop",
   "plant_name": "Cabbage",
   "seed_name": "Cabbage Seeds",

@@ -1,6 +1,6 @@
 {
-  "path": "mod_harvestcraft/plants/peas_plant.json",
   "enabled": true,
+  "path": "mod_harvestcraft/plants/peas_plant.json",
   "id": "peas_crop",
   "plant_name": "Peas",
   "seed_name": "Peas Seeds",

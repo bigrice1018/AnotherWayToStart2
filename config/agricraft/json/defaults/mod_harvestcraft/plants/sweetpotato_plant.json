@@ -1,6 +1,6 @@
 {
-  "path": "mod_harvestcraft/plants/sweetpotato_plant.json",
   "enabled": true,
+  "path": "mod_harvestcraft/plants/sweetpotato_plant.json",
   "id": "sweetpotato_crop",
   "plant_name": "Sweet Potato",
   "seed_name": "Sweet Potato Seeds",

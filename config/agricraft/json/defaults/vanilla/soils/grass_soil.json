@@ -1,6 +1,6 @@
 {
-  "path": "vanilla/soils/grass_soil.json",
   "enabled": true,
+  "path": "vanilla/soils/grass_soil.json",
   "id": "grass_soil",
   "name": "Grass",
   "varients": [

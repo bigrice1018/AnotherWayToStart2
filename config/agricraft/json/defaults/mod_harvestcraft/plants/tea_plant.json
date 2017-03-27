@@ -1,6 +1,6 @@
 {
-  "path": "mod_harvestcraft/plants/tea_plant.json",
   "enabled": true,
+  "path": "mod_harvestcraft/plants/tea_plant.json",
   "id": "tea_crop",
   "plant_name": "Tea",
   "seed_name": "Tea Seeds",

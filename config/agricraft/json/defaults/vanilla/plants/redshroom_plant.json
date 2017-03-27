@@ -1,6 +1,6 @@
 {
-  "path": "vanilla/plants/redshroom_plant.json",
   "enabled": true,
+  "path": "vanilla/plants/redshroom_plant.json",
   "id": "redshroom_plant",
   "plant_name": "Red Mushroom",
   "seed_name": "Red Mushroom Spores",

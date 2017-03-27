@@ -1,6 +1,6 @@
 {
-  "path": "mod_harvestcraft/plants/kiwi_plant.json",
   "enabled": true,
+  "path": "mod_harvestcraft/plants/kiwi_plant.json",
   "id": "kiwi_crop",
   "plant_name": "Kiwi",
   "seed_name": "Kiwi Seeds",

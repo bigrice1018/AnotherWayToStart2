@@ -1,6 +1,6 @@
 {
-  "path": "mod_harvestcraft/plants/cucumber_plant.json",
   "enabled": true,
+  "path": "mod_harvestcraft/plants/cucumber_plant.json",
   "id": "cucumber_crop",
   "plant_name": "Cucumber",
   "seed_name": "Cucumber Seeds",

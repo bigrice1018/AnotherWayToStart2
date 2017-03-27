@@ -2,16 +2,58 @@
 
     "images":
     {
+        "bar":
+        {
+		    "image" : "awts:res4.png",
+            "posX" : 0,
+            "posY" : -18,
+            "width" : 1921,
+            "height" : 50,
+			"alignment" : "bottom_left"
+        },
+		"message":
+        {
+		    "image" : "awts:res6.png",
+            "posX" : -24,
+            "posY" : -15.75,
+            "width" : 18,
+            "height" : 14,
+			"alignment" : "bottom_right"
+        },
+		"AWTS":
+        {
+		    "image" : "awts:res2.png",
+            "posX" : 0,
+            "posY" : -100,
+            "width" : 125,
+            "height" : 100,
+			"alignment" : "bottom_left"
+        }
     },
   
     "buttons":
     {
+	/*
+	     "refresh":
+        {
+            "text" : "",
+            "posX" : -154,
+            "posY" : 132,
+            "width" : 20,
+            "height" : 20,
+            "texture" : "custommainmenu:textures/gui/buttons.png",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        },
+	*/
         "singleplayer":
         {
             "text" : "",
 			"tooltip": "Singleplayer",
             "posX" : -30,
-            "posY" : 40,
+            "posY" : 10,
             "width" : 20,
             "height" : 20,
 			"imageWidth": "800",
@@ -30,7 +72,7 @@
             "text" : "",
 			"tooltip": "Mulitiplayer",
             "posX" : -30,
-            "posY" : 70,
+            "posY" : 40,
             "width" : 20,
             "height" : 20,
 			"imageWidth": "800",
@@ -49,7 +91,7 @@
             "text" : "",
 			"tooltip": "Options",
             "posX" : -30,
-            "posY" : 100,
+            "posY" : 70,
             "width" : 20,
             "height" : 20,
 			"imageWidth": "800",
@@ -88,7 +130,7 @@
             "text" : "",
 			"tooltip": "WIP",
             "posX" : -30,
-            "posY" : 130,
+            "posY" : 100,
             "width" : 20,
             "height" : 20,
 			"imageWidth": "800",
@@ -101,38 +143,42 @@
         {
             "text" : "",
 			"tooltip": "Quit",
-            "posX" : -30,
-            "posY" : 160,
-            "width" : 20,
-            "height" : 20,
+            "posX" : 5,
+            "posY" : -17,
+            "width" : 15,
+            "height" : 15,
 			"imageWidth": "800",
 			"imageHeight": "800",
             "texture" : "awts:exit.png",  
-			"alignment" : "top_right",
+			"alignment" : "bottom_left",
             "action" : 
             {
                 "type" : "quit"
             }
-        }
-		,
-        
-        "refresh":
+        },
+      
+	    "folder":
         {
             "text" : "",
-            "posX" : -154,
-            "posY" : 132,
-            "width" : 20,
-            "height" : 20,
-            "texture" : "custommainmenu:textures/gui/buttons.png",
+			"tooltip": "Open Minecraft Folder",
+            "posX" : 105,
+            "posY" : -15,
+            "width" : 12.6,
+            "height" : 13,
+			"imageWidth": "38",
+			"imageHeight": "40",
+            "texture" : "awts:res3.png",  
+			"alignment" : "bottom_left",
             "action" : 
             {
-                "type" : "refresh"
+                "type" : "openFolder",
+				"folderName" : ""
             }
         }
 		
     },
     
-    "texts":
+    "labels":
     {
 	/*
 		"mojang":
@@ -146,19 +192,67 @@
 		*/
 		"version":
         {
-            "text" : "0.1.4",
+            "text" : "0.2.0",
             "posX" : -31,
             "posY" : 20,
             "color" : -1,
             "alignment" : "top_right"
         },
-		"update":
+		"time":
         {
-            "text" : "web:https://raw.githubusercontent.com/bigrice1018/AnotherWayToStart/master/UPDATENEWS",
-            "posX" : 2,
-            "posY" : 2,
-            "color" : 6908265,
+            "text" : "#time#",
+            "posX" : -130,
+            "posY" : -12.75,
+            "color" : -1,
             "alignment" : "bottom_right"
+        },
+		"date":
+        {
+            "text" : "#date#",
+            "posX" : -95,
+            "posY" : -12.75,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
+		"name":
+        {
+            "text" : "Welcome, #username#!",
+            "posX" : 4,
+            "posY" : -95,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        },
+		"version":
+        {
+            "text" : "Minecraft 1.10.2",
+            "posX" : 4,
+            "posY" : -55,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        },
+		"forge":
+        {
+            "text" : "Forge #forgeversion#",
+            "posX" : 4,
+            "posY" : -42.5,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        },
+		"mods":
+        {
+            "text" : "Loaded #modsloaded# Mods",
+            "posX" : 4,
+            "posY" : -30,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        },
+		"AWTS2":
+        {
+            "text" : "AWTS2 0.2.0",
+            "posX" : 32.5,
+            "posY" : -12.75,
+            "color" : -1,
+            "alignment" : "bottom_left"
         }
     },
     
@@ -166,7 +260,7 @@
     {
 		"background":
 		{
-			"image" : "awts:homescreen.png",
+			"image" : "awts:bg.png",
 			"mode"	: "fill"
 		}
 
