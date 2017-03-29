@@ -176,9 +176,9 @@
 					}
 				],
 				"material": "stone",
-				"cluster-size": 4
+				"cluster-size": 3
 			},
-			"cluster-count": 3,
+			"cluster-count": 2,
 			"min-height": 15,
 			"max-height": 25,
 			"retrogen": "true",
@@ -201,7 +201,7 @@
 				"material": "stone",
 				"cluster-size": 2
 			},
-			"cluster-count": 3,
+			"cluster-count": 2,
 			"min-height": 1,
 			"max-height": 10,
 			"retrogen": "true",
@@ -224,7 +224,7 @@
 				"material": "stone",
 				"cluster-size": 2
 			},
-			"cluster-count": 2,
+			"cluster-count": 1,
 			"min-height": 5,
 			"max-height": 15,
 			"retrogen": "true",

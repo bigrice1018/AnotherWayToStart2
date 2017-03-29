@@ -1,5 +1,95 @@
 {
 	"populate": {
+			"coal": {
+			"distribution": "uniform",
+			"generator": {
+				"block": [
+					{
+						"name": "rockhounding_oretiers:coalOres",
+						"weight": 30
+					},
+					{
+						"name": "rockhounding_oretiers:coalOres",
+						"metadata": 1,
+						"weight": 30
+					},
+					{
+						"name": "rockhounding_oretiers:coalOres",
+						"metadata": 2,
+						"weight": 40
+					}				
+				],
+				"material": "stone",
+				"cluster-size": 15,
+			},
+			"cluster-count": 20,
+			"min-height": 50,
+			"max-height": 120,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"iron": {
+			"distribution": "uniform",
+			"generator": {
+				"block": [
+					{
+						"name": "rockhounding_oretiers:ironOres",
+						"weight": 10
+					},
+					{
+						"name": "rockhounding_oretiers:ironOres",
+						"metadata": 1,
+						"weight": 10
+					},
+					{
+						"name": "rockhounding_oretiers:ironOres",
+						"metadata": 2,
+						"weight": 20
+					},
+					{
+						"name": "rockhounding_oretiers:ironOres",
+						"metadata": 3,
+						"weight": 30
+					},
+					{
+						"name": "rockhounding_oretiers:ironOres",
+						"metadata": 4,
+						"weight": 20
+					},
+					{
+						"name": "rockhounding_oretiers:ironOres",
+						"metadata": 6,
+						"weight": 5
+					},
+					{
+						"name": "rockhounding_oretiers:ironOres",
+						"metadata": 7,
+						"weight": 5
+					}				
+				],
+				"material": "stone",
+				"cluster-size": 8,
+			},
+			"cluster-count": 8,
+			"min-height": 40,
+			"max-height": 60,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
 		"gemstone": {
 			"distribution": "uniform",
 			"generator": {
@@ -17,14 +107,15 @@
 						"name": "projectred-exploration:ore",
 						"metadata": 2,
 						"weight": 30
-					}	
+					},
+					{
 					    "name": "projectred-exploration:ore",
 						"metadata": 6,
 						"weight": 10
 					}					
 				],
 				"material": "stone",
-				"cluster-size": 4
+				"cluster-size": 4,
 			},
 			"cluster-count": 5,
 			"min-height": 51,
@@ -40,6 +131,7 @@
 			}
 		},		
 		"apatite": {
+			"distribution": "uniform",
 			"generator": {
 				"block": "forestry:resources",
 				"material": "stone",
@@ -105,7 +197,7 @@
 			"distribution": "uniform",
 			"generator": {
 				"block": {
-					"name": "actuallyadditions:blickMisc",
+					"name": "actuallyadditions:blockMisc",
 					"metadata": 3
 				},
 				"material": "stone",
@@ -124,9 +216,10 @@
 				]
 			}
 		},
-		"certus_quartz": {
+		"certus": {
+			"distribution": "uniform",
 			"generator": {
-				"block": "appliedenergistics2:quarz_ore",
+				"block": "appliedenergistics2:quartz_ore",
 				"material": "stone",
 				"cluster-size": 6
 			},
@@ -143,9 +236,10 @@
 				]
 			}
 		},
-		"charged_certus_quartz": {
+		"ccertus": {
+			"distribution": "uniform",
 			"generator": {
-				"block": "appliedenergistics2:charged_quarz_ore",
+				"block": "appliedenergistics2:charged_quartz_ore",
 				"material": "stone",
 				"cluster-size": 3
 			},
@@ -163,8 +257,9 @@
 			}
 		},
 		"vinteum": {
+			"distribution": "uniform",
 			"generator": {
-				"block": "arsmagic2:ore",
+				"block": "arsmagica2:ore",
 				"material": "stone",
 				"cluster-size": 6
 			},
@@ -182,11 +277,12 @@
 			}
 		},
 		"chimerite": {
+			"distribution": "uniform",
 			"generator": {
 				"block": {
-					"name": "arsmagic2:ore",
+					"name": "arsmagica2:ore",
 					"metadata": 1
-				}
+				},
 				"material": "stone",
 				"cluster-size": 5
 			},
@@ -204,11 +300,12 @@
 			}
 		},
 		"bluetopaz": {
+			"distribution": "uniform",
 			"generator": {
 				"block": {
-					"name": "arsmagic2:ore",
+					"name": "arsmagica2:ore",
 					"metadata": 2
-				}
+				},
 				"material": "stone",
 				"cluster-size": 3
 			},
@@ -226,6 +323,7 @@
 			}
 		},
 		"sulfur": {
+			"distribution": "uniform",
 			"generator": {
 				"block": "railcraft:ore",
 				"material": "stone",
@@ -245,8 +343,9 @@
 			}
 		},
 		"galena": {
+			"distribution": "uniform",
 			"generator": {
-				"block": "techrebirn:techreborn.ore",
+				"block": "techreborn:techreborn.ore",
 				"material": "stone",
 				"cluster-size": 10
 			},
@@ -264,12 +363,13 @@
 			}
 		},
 		"yellorite": {
+			"distribution": "uniform",
 			"generator": {
 				"block": "bigreactors:brore",
 				"material": "stone",
 				"cluster-size": 5
 			},
-			"cluster-count": 5,
+			"cluster-count": 4,
 			"min-height": 5,
 			"max-height": 15,
 			"retrogen": "true",
@@ -281,6 +381,6 @@
 					1
 				]
 			}
-		}		
+		},		
 	}
 }
