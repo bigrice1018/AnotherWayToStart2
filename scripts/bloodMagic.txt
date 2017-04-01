@@ -1,0 +1,16 @@
+recipes.removeShaped(<bloodmagic:BlockAltar>);
+recipes.addShaped(<bloodmagic:BlockAltar>, [[<tconstruct:slime:3>, null, <tconstruct:slime:3>],[<minecraft:stonebrick>, <morefurnaces:furnaceBlock:4>, <minecraft:stonebrick>], [<minecraft:gold_block>, <bloodmagic:ItemMonsterSoul>, <minecraft:gold_block>]]);
+
+  //Orb
+mods.bloodmagic.Altar.removeRecipe(<bloodmagic:ItemBloodOrb>);
+mods.bloodmagic.Altar.removeRecipe(<bloodmagic:ItemBloodOrb:1>);
+mods.bloodmagic.Altar.removeRecipe(<bloodmagic:ItemBloodOrb:2>);
+mods.bloodmagic.Altar.addRecipe(<bloodmagic:ItemBloodOrb>, , 1, 2500, 2, 1,<botania:manaResource:2>);
+mods.bloodmagic.Altar.addRecipe(<bloodmagic:ItemBloodOrb:1>, 3, 25000, 20, 20,<botania:manaResource:5> );
+mods.bloodmagic.Altar.addRecipe(<bloodmagic:ItemBloodOrb:2>, 2, 5000, 5, 5,<botania:manaResource:8>);
+ //TP Focus
+mods.bloodmagic.Altar.removeRecipe(<bloodmagic:ItemTelepositionFocus>);
+mods.bloodmagic.Altar.addRecipe(<bloodmagic:ItemTelepositionFocus>, 4, 2000, 10, 10, <botania:manaResource:15>);
+ //Scri Knife
+mods.bloodmagic.Altar.removeRecipe(<bloodmagic:ItemDaggerOfSacrifice>);
+mods.bloodmagic.Altar.addRecipe(<bloodmagic:ItemDaggerOfSacrifice>,  2, 3000, 5, 5,<botania:manasteelSword>);

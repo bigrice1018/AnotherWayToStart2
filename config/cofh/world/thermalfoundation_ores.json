@@ -4,8 +4,8 @@
 			"distribution": "uniform",
 			"generator": {
 				"block": {
-					"name": "substratum:ore",
-					"metadata": 7
+					"name": "immersiveengineering:ore",
+					"metadata": 1
 				},
 				"material": "stone",
 				"cluster-size": 8
@@ -199,9 +199,9 @@
 					"metadata": 7
 				},
 				"material": "stone",
-				"cluster-size": 2
+				"cluster-size": 1
 			},
-			"cluster-count": 2,
+			"cluster-count": 1,
 			"min-height": 1,
 			"max-height": 10,
 			"retrogen": "true",

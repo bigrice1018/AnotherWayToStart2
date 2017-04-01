@@ -1,0 +1,1 @@
+mods.immersiveengineering.MetalPress.removeRecipe(<thermalfoundation:material:327>);

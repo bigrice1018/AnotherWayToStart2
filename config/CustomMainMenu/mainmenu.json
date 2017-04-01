@@ -33,7 +33,7 @@
   
     "buttons":
     {
-	/*
+	
 	     "refresh":
         {
             "text" : "",
@@ -47,7 +47,7 @@
                 "type" : "refresh"
             }
         },
-	*/
+	
         "singleplayer":
         {
             "text" : "",
@@ -104,13 +104,13 @@
                 "gui" : "options"
             }
         },
-		/*
+		
 		"expand":
         {
             "text" : "",
-			"tooltip": "More Information",
+			"tooltip": "Open Folder",
             "posX" : -30,
-            "posY" : 130,
+            "posY" : 100,
             "width" : 20,
             "height" : 20,
 			"imageWidth": "800",
@@ -120,11 +120,11 @@
             "action" : 
             {
                 "type" : "openGui",
-                "gui" : "custom.submenu"
+                "gui" : "custom.foldermenu"
             }
         },
-        */
-		
+        
+		/*
 		"expand":
         {
             "text" : "",
@@ -138,7 +138,7 @@
             "texture" : "awts:folder.png",  
 			"alignment" : "top_right"
         },
-		
+		*/
         "quit":
         {
             "text" : "",
@@ -172,7 +172,7 @@
             "action" : 
             {
                 "type" : "openFolder",
-				"folderName" : ""
+				"folderName" : "config"
             }
         }
 		
