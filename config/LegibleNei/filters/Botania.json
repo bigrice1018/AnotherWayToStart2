@@ -2,12 +2,11 @@
 Botania:[
 	{keep:[[customBrick],[4]]};
 	{keep:[[shinyFlower,petalBlock,altar,miniIsland,
-		manaBeacon,pavement,unstableBlock,petal,flightTiara,laputaShard,quartz,
-		dye,lens,rune,grassSeeds],[0]]};
+		pavement,unstableBlock,petal,flightTiara,laputaShard,quartz,
+		dye,grassSeeds],[0]]};
 	{keep-one:[[specialFlower,floatingSpecialFlower,twigWand,signalFlare,
-		terraPick,incenseStick,bloodPendant],[]]};
+		terraPick,incenseStick,bloodPendant,brewVial,brewFlask],[]]};
 	{hide:[[*Stair*,*Slab*,biomeStone*,doubleFlower*,mushroom,buriedPetals,manaFlame,
-		fakeAir,gaiaHeadBlock,quartzType*,
-		brewFlask,brewVial,craftPattern,ancientWill],[]]};
+	fakeAir,gaiaHeadBlock,quartzType*],[]]};
 	]
 }

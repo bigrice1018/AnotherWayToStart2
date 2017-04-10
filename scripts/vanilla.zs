@@ -23,3 +23,8 @@ recipes.addShapeless(<enchiridion:book>.withTag({identifier: "Welcome_Book"}), [
 //Eye Of Ender
 recipes.remove(<minecraft:ender_eye>);
 recipes.addShaped(<minecraft:ender_eye>, [[null, <ore:powderBlaze>, null], [<ore:powderBlaze>, <ore:materialEnderPearl>, <ore:powderBlaze>], [null, <ore:powderBlaze>, null]]);
+
+//Charcoal
+furnace.remove(<rockhounding_oretiers:tiersItems:4>);
+furnace.remove(<minecraft:coal:1>);
+recipes.removeShapeless(<minecraft:coal:1>, [<minecraft:coal:1>, <minecraft:coal:1>, <minecraft:coal:1>, <minecraft:coal:1>]);

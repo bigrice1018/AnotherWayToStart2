@@ -1,5 +1,5 @@
 {
 BloodMagic:[
-	{_hide:[[BlockBloodTank],[]]};
+	{keep-one:[[*ItemUpgradeTrainer,*ItemUpgradeTome],[0]]};
 ]
 }

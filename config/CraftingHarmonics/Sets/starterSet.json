@@ -1,0 +1,15 @@
+{
+    name: "Starter Item",
+    description: "Give starter items to players.",
+    sets: [
+        {
+            name: "default",
+            operations: [
+                {
+                    type: "addStarterItem",
+                    what: ["harvestcraft:toastItem:0:8","minecraft:torch:0","minecraft:potion:0:3"]
+                }
+			]
+		}
+	]
+}

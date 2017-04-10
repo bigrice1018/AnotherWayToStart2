@@ -1,3 +1,15 @@
 <VatRecipes>
-
+         <recipeGroup name="mek" >
+           <recipe name="brine" energyCost="10000" allowMissing="true">
+             <input>
+              <itemStack modID="mekanism" itemName="Salt" slot="0" multiplier="0.5" />
+              <itemStack modID="mekanism" itemName="SaltBlock" slot="0" multiplier="2" />
+              <fluidStack name="water" multiplier="1" />
+             </input>
+             <output>
+               <fluidStack name="brine" />
+             </output>
+            </recipe>
+         </recipeGroup>;
+  FMLInterModComms.sendMessage("EnderIO", "recipe:vat", recipe);
 </VatRecipes>

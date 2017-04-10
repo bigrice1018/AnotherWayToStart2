@@ -1,6 +1,6 @@
 {forestry:[
-	{keep-one:[[*GE,sapling,pollenFertile,ffarm,capsule,can,refractory,pile_wood],[]]};
-	{hide:[[crated*,adventurerBag*,fence.gate*,stairs*,door*,plank*],[]]};
-	{keep:[[leaves*,slabs*,fence*,log*,beehives],[0]]};
+	{keep-one:[[*Drone*,*Princess*,*Larvae*,pollenFertile,ffarm,capsule,can,refractory],[]]};
+	{hide:[[crated*,fence.gate*,stairs*,door*,plank*,pile*],[]]};
+	{keep:[[leaves*,slabs*,fence*],[0]]};
 ]
 }

@@ -1,0 +1,6 @@
+{
+rscircuits:[
+		{keep-one:[[*blueprint],[4]]};
+		{hide:[[*redwire*,punchcard],[0-17]]};
+]
+}

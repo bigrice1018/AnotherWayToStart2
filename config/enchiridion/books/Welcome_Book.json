@@ -1,4 +1,5 @@
 {
+  "modid": "",
   "uniqueName": "Welcome_Book",
   "saveName": "Welcome_Book",
   "displayName": "Welcome Book",
@@ -22,8 +23,5 @@
       "pageNumber": 0,
       "isScrollable": false
     }
-  ],
-  "defaultIDs": [
-    "enchiridion_default_buttons"
   ]
 }

@@ -248,7 +248,7 @@
         },
 		"AWTS2":
         {
-            "text" : "AWTS2 0.2.0",
+            "text" : "file:awts:VERSION.txt",
             "posX" : 32.5,
             "posY" : -12.75,
             "color" : -1,

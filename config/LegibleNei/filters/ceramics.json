@@ -1,0 +1,6 @@
+{
+ceramics:[
+	{keep-one:[[*clay_bucket],[*]]};
+		{keep:[[*_barrel_*,*porcelain*],[1]]};
+]
+}

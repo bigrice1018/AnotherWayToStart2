@@ -1,0 +1,17 @@
+{
+    name: "Sample File",
+    description: "Sample file for reference.  To use it, remove the '.sample' extension; only .json files are parsed.",
+    sets: [
+        // Tinker's Construct
+        {
+            name: "ticon",
+            operations: [
+                {
+                    type: "addSmelteryFuel",
+                    what: "iron:10", // The fluid and how much of it to consume per use
+                    duration: 1000 // How many ticks one use of fuel will last
+                }
+            ]
+        }
+    ]
+}

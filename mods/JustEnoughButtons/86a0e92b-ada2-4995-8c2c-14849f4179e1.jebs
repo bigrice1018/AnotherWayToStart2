@@ -1,7 +1,47 @@
 # JustEnoughButtons Save file for BigRice1018, 86a0e92b-ada2-4995-8c2c-14849f4179e1
-# Created Sat Apr 01 23:57:00 CST 2017
+# Created Sat Apr 08 22:01:24 CST 2017
 # WARNING: Modifying this file might result in crashes!
-EMPTY SAVE
+MainInv:{id:"botania:manaResource",Count:1b,Damage:0s}
+MainInv:{id:"techreborn:ingot",Count:1b,Damage:20s}
+MainInv:{id:"avaritiaadditions:collector",Count:1b,Damage:0s}
+MainInv:{id:"avaritiaadditions:neutronium_compressor",Count:1b,Damage:0s}
+MainInv:{id:"minecraft:chest",Count:1b,Damage:0s}
+MainInv:{id:"minecraft:bucket",Count:1b,Damage:0s}
+NullInv
+MainInv:{id:"minecraft:gold_ore",Count:64b,Damage:0s}
+NullInv
+MainInv:{id:"minecraft:glass",Count:1b,Damage:0s}
+MainInv:{id:"minecraft:iron_ore",Count:64b,Damage:0s}
+MainInv:{id:"thermalfoundation:ore",Count:60b,Damage:0s}
+MainInv:{id:"minecraft:iron_ingot",Count:1b,Damage:0s}
+MainInv:{id:"minecraft:redstone",Count:64b,Damage:0s}
+MainInv:{id:"avaritia:dire_crafting",Count:1b,Damage:0s}
+MainInv:{id:"betterbuilderswands:wandUnbreakable",Count:1b,tag:{bbw:{lastBlock:"extrautils2:angelblock",lastItemBlock:"extrautils2:angelblock",lastPlaced:[10000,66,9996,10000,66,9995,10000,66,9997,10000,66,9994,10000,66,9998,10000,66,9993,10000,66,9999,10000,66,9992,],lastBlockMeta:0,fluidmask:1s,lastPerBlock:1,mask:7s}},Damage:12s}
+MainInv:{id:"bigreactors:blockmetals",Count:1b,Damage:0s}
+MainInv:{id:"gendustry:mutagen",Count:64b,Damage:0s}
+MainInv:{id:"gendustry:mutagen",Count:1b,Damage:0s}
+MainInv:{id:"solarfluxreborn:mirror",Count:1b,Damage:0s}
+MainInv:{id:"solarfluxreborn:wire_2",Count:1b,Damage:0s}
+MainInv:{id:"solarfluxreborn:wire_3",Count:1b,Damage:0s}
+MainInv:{id:"tconstruct:molten_iron",Count:61b,Damage:0s}
+MainInv:{id:"tconstruct:seared",Count:64b,Damage:3s}
+MainInv:{id:"tconstruct:seared_tank",Count:1b,Damage:0s}
+MainInv:{id:"thermalfoundation:material",Count:64b,Damage:135s}
+NullInv
+NullInv
+NullInv
+NullInv
+NullInv
+NullInv
+NullInv
+NullInv
+NullInv
+NullInv
+NullArm
+NullArm
+NullArm
+NullArm
+END SAVE
 EMPTY SAVE
 EMPTY SAVE
 EMPTY SAVE

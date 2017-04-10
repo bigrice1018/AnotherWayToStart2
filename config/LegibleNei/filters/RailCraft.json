@@ -1,4 +1,4 @@
 {railcraft:[
-   {keep:[[brick_*,glass],[0]]};
+   {keep:[[glass],[0]]};
    ]
 }

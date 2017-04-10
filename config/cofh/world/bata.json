@@ -25,7 +25,7 @@
 			"cluster-count": 20,
 			"min-height": 50,
 			"max-height": 120,
-			"retrogen": "true",
+			"retrogen": true,
 			"biome": "all",
 			"dimension": {
 				"restriction": "blacklist",
@@ -80,7 +80,7 @@
 			"cluster-count": 12,
 			"min-height": 40,
 			"max-height": 60,
-			"retrogen": "true",
+			"retrogen": true,
 			"biome": "all",
 			"dimension": {
 				"restriction": "blacklist",
@@ -120,7 +120,7 @@
 			"cluster-count": 5,
 			"min-height": 51,
 			"max-height": 60,
-			"retrogen": "true",
+			"retrogen": true,
 			"biome": "all",
 			"dimension": {
 				"restriction": "blacklist",
@@ -140,7 +140,7 @@
 			"cluster-count": 5,
 			"min-height": 71,
 			"max-height": 80,
-			"retrogen": "true",
+			"retrogen": true,
 			"biome": "all",
 			"dimension": {
 				"restriction": "blacklist",
@@ -163,7 +163,7 @@
 			"cluster-count": 2,
 			"min-height": 5,
 			"max-height": 15,
-			"retrogen": "true",
+			"retrogen": true,
 			"biome": "all",
 			"dimension": {
 				"restriction": "blacklist",
@@ -183,7 +183,7 @@
 			"cluster-count": 8,
 			"min-height": 25,
 			"max-height": 35,
-			"retrogen": "true",
+			"retrogen": true,
 			"biome": "all",
 			"dimension": {
 				"restriction": "blacklist",
@@ -206,7 +206,7 @@
 			"cluster-count": 3,
 			"min-height": 21,
 			"max-height": 30,
-			"retrogen": "true",
+			"retrogen": true,
 			"biome": "all",
 			"dimension": {
 				"restriction": "blacklist",
@@ -226,7 +226,7 @@
 			"cluster-count": 5,
 			"min-height": 35,
 			"max-height": 45,
-			"retrogen": "true",
+			"retrogen": true,
 			"biome": "all",
 			"dimension": {
 				"restriction": "blacklist",
@@ -246,7 +246,7 @@
 			"cluster-count": 3,
 			"min-height": 35,
 			"max-height": 45,
-			"retrogen": "true",
+			"retrogen": true,
 			"biome": "all",
 			"dimension": {
 				"restriction": "blacklist",
@@ -266,7 +266,7 @@
 			"cluster-count": 3,
 			"min-height": 11,
 			"max-height": 20,
-			"retrogen": "true",
+			"retrogen": true,
 			"biome": "all",
 			"dimension": {
 				"restriction": "blacklist",
@@ -286,7 +286,7 @@
 			"cluster-count": 8,
 			"min-height": 35,
 			"max-height": 45,
-			"retrogen": "true",
+			"retrogen": true,
 			"biome": "all",
 			"dimension": {
 				"restriction": "blacklist",
@@ -306,7 +306,7 @@
 			"cluster-count": 4,
 			"min-height": 5,
 			"max-height": 15,
-			"retrogen": "true",
+			"retrogen": true,
 			"biome": "all",
 			"dimension": {
 				"restriction": "blacklist",
@@ -326,7 +326,7 @@
 			"cluster-count": 3,
 			"min-height": 5,
 			"max-height": 15,
-			"retrogen": "true",
+			"retrogen": true,
 			"biome": "all",
 			"dimension": {
 				"restriction": "blacklist",
@@ -349,7 +349,7 @@
 			"cluster-count": 5,
 			"min-height": 50,
 			"max-height": 70,
-			"retrogen": "true",
+			"retrogen": true,
 			"biome": "all",
 			"dimension": {
 				"restriction": "blacklist",
