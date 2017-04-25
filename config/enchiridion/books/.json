@@ -1,0 +1,222 @@
+{
+  "modid": "",
+  "uniqueName": "Welcome_Book",
+  "saveName": "",
+  "displayName": "Welcome_Book",
+  "displayInfo": "",
+  "colorHex": "ffffff",
+  "language": "en_US",
+  "hasCustomIcon": false,
+  "showBackground": true,
+  "legacyTexture": true,
+  "backgroundResource": "",
+  "backgroundStartX": 0,
+  "backgroundStartY": 0,
+  "backgroundEndX": 0,
+  "backgroundEndY": 0,
+  "defaultPage": 0,
+  "isLocked": false,
+  "forgetPageOnClose": false,
+  "book": [
+    {
+      "features": [
+        {
+          "xPos": 32,
+          "yPos": 24,
+          "width": 181.0,
+          "height": 13.0,
+          "feature": {
+            "class": "joshie.enchiridion.gui.book.features.FeatureText",
+            "properties": {
+              "text": "Welcome To Another Way To Start",
+              "size": 1.0
+            }
+          },
+          "isLocked": false,
+          "isHidden": false,
+          "layerIndex": 0
+        },
+        {
+          "xPos": 290,
+          "yPos": 16,
+          "width": 55.0,
+          "height": 11.0,
+          "feature": {
+            "class": "joshie.enchiridion.gui.book.features.FeatureText",
+            "properties": {
+              "text": "Developers",
+              "size": 1.0
+            }
+          },
+          "isLocked": false,
+          "isHidden": false,
+          "layerIndex": 1
+        },
+        {
+          "xPos": -7,
+          "yPos": 203,
+          "width": 49.0,
+          "height": 69.0,
+          "feature": {
+            "class": "joshie.enchiridion.gui.book.features.FeatureBox",
+            "properties": {
+              "color": ""
+            }
+          },
+          "isLocked": false,
+          "isHidden": false,
+          "layerIndex": 2
+        },
+        {
+          "xPos": 220,
+          "yPos": 126,
+          "width": 74.0,
+          "height": 45.0,
+          "feature": {
+            "class": "joshie.enchiridion.gui.book.features.FeatureText",
+            "properties": {
+              "text": "BigRice1018        (BigRice)\n\n  All stuff",
+              "size": 1.0
+            }
+          },
+          "isLocked": false,
+          "isHidden": false,
+          "layerIndex": 4
+        },
+        {
+          "xPos": 282,
+          "yPos": 104,
+          "width": 78.0,
+          "height": 47.0,
+          "feature": {
+            "class": "joshie.enchiridion.gui.book.features.FeatureText",
+            "properties": {
+              "text": "yjo4nk45m3 \n (Chifung)\n               \n    Logo \n Ingot Unify",
+              "size": 1.0
+            }
+          },
+          "isLocked": false,
+          "isHidden": false,
+          "layerIndex": 5
+        },
+        {
+          "xPos": 346,
+          "yPos": 104,
+          "width": 62.0,
+          "height": 43.0,
+          "feature": {
+            "class": "joshie.enchiridion.gui.book.features.FeatureText",
+            "properties": {
+              "text": "livedomo520    (Wendy)\n\n  Ore Gen",
+              "size": 1.0
+            }
+          },
+          "isLocked": false,
+          "isHidden": false,
+          "layerIndex": 6
+        },
+        {
+          "xPos": 223,
+          "yPos": 170,
+          "width": 189.0,
+          "height": 28.0,
+          "feature": {
+            "class": "joshie.enchiridion.gui.book.features.FeatureText",
+            "properties": {
+              "text": "Also big thanks for all the mods authors for their cool mods.\nAnother thanks for all the beta testers.",
+              "size": 1.0
+            }
+          },
+          "isLocked": false,
+          "isHidden": false,
+          "layerIndex": 7
+        }
+      ],
+      "pageNumber": 0,
+      "isScrollable": false
+    },
+    {
+      "features": [
+        {
+          "xPos": 23,
+          "yPos": 1,
+          "width": 357.0,
+          "height": 210.0,
+          "feature": {
+            "class": "joshie.enchiridion.gui.book.features.FeatureImage",
+            "properties": {
+              "path": "enchiridion:images/Welcome_Book/mindmap.png"
+            }
+          },
+          "isLocked": false,
+          "isHidden": false,
+          "layerIndex": 0
+        },
+        {
+          "xPos": -106,
+          "yPos": -52,
+          "width": 632.0,
+          "height": 336.0,
+          "feature": {
+            "class": "joshie.enchiridion.gui.book.features.FeatureJump",
+            "properties": {}
+          },
+          "isLocked": false,
+          "isHidden": false,
+          "layerIndex": 1
+        }
+      ],
+      "pageNumber": 1,
+      "isScrollable": false
+    },
+    {
+      "features": [
+        {
+          "xPos": -14,
+          "yPos": -70,
+          "width": 458.0,
+          "height": 127.0,
+          "feature": {
+            "class": "joshie.enchiridion.gui.book.features.FeatureImage",
+            "properties": {
+              "path": "enchiridion:images/Welcome_Book/Screenshot_7.png"
+            }
+          },
+          "isLocked": false,
+          "isHidden": false,
+          "layerIndex": 0
+        },
+        {
+          "xPos": -8,
+          "yPos": 57,
+          "width": 453.0,
+          "height": 215.0,
+          "feature": {
+            "class": "joshie.enchiridion.gui.book.features.FeatureImage",
+            "properties": {
+              "path": "enchiridion:images/Welcome_Book/Screenshot_6.png"
+            }
+          },
+          "isLocked": false,
+          "isHidden": false,
+          "layerIndex": 1
+        },
+        {
+          "xPos": -95,
+          "yPos": -62,
+          "width": 622.0,
+          "height": 345.0,
+          "feature": {
+            "class": "joshie.enchiridion.gui.book.features.FeatureJump",
+            "properties": {}
+          },
+          "isLocked": false,
+          "isHidden": false,
+          "layerIndex": 2
+        }
+      ],
+      "pageNumber": 2,
+      "isScrollable": false
+    }
+  ]
+}

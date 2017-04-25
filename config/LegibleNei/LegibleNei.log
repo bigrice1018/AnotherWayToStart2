@@ -15,9 +15,9 @@ keep: |default|default|MASK|default|default|MASK|MASK|MASK|MASK|
 keep-onei: |oneid|oneid|default|oneid|oneid|default|default|default|default|
 show: |SHOW|SHOW|default|SHOW|SHOW|default|default|default|default|
 ----------------------------------------------------
-6698 items registered
+6890 items registered
 55 filters loaded
-1122 items matched in 66 ms
+1121 items matched in 103 ms
 ----------------------------------------------------
 
 - actuallyadditions :
@@ -351,7 +351,7 @@ show: |SHOW|SHOW|default|SHOW|SHOW|default|default|default|default|
 	+ itemBrokenSpawner:                        	hide:[]
 	+ itemSoulVessel:                           	keep-one:[]
 - extrautils2 :
-	+ biomemarker:                              	hide:[]
+	+ biomemarker:                              	keep-one:[]
 - forestry :
 	+ beeDroneGE:                               	keep-one:[]
 	+ beeLarvaeGE:                              	keep-one:[]
@@ -641,7 +641,6 @@ show: |SHOW|SHOW|default|SHOW|SHOW|default|default|default|default|
 - forge :
 	+ bucketFilled:                             	keep-one:[]
 - gendustry :
-	+ GeneSample:                               	keep-one:[]
 	+ GeneTemplate:                             	keep-one:[]
 - harvestcraft :
 	+ almond_sapling:                           	hide:[]
