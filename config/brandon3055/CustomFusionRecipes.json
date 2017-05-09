@@ -1,0 +1,64 @@
+[
+    {
+        "mode": "REMOVE",
+        "result": "4x[draconicevolution:draconic_block]",
+        "catalyst": "4x[draconicevolution:draconium_block]",
+        "ingredients": [
+            "[draconicevolution:wyvern_core]",
+            "[draconicevolution:wyvern_core]",
+            "[draconicevolution:wyvern_core]",
+            "[draconicevolution:wyvern_core]",
+            "[draconicevolution:wyvern_core]",
+            "[draconicevolution:wyvern_core]",
+            "[draconicevolution:dragon_heart]"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "[draconicevolution:draconium_block]:1",
+        "catalyst": "[draconicevolution:draconium_block]",
+        "energy": 25000000,
+        "tier": 2,
+        "ingredients": [
+            "[draconicevolution:wyvern_core]",
+            "[draconicevolution:wyvern_core]",
+            "[draconicevolution:wyvern_core]",
+            "[draconicevolution:wyvern_core]"
+        ]
+    },
+	{
+	    "mode": "ADD",
+        "result": "4x[draconicevolution:draconic_block]",
+        "catalyst": "4x[draconicevolution:draconium_block]:1",
+		"energy": 100000000,
+		"tier": 1,
+        "ingredients": [
+            "[draconicevolution:dragon_heart]",		
+            "[minecraft:tnt]",
+            "[minecraft:redstone_block]",		
+            "[minecraft:obsidian]",		
+            "[minecraft:obsidian]",
+            "[minecraft:obsidian]",	
+            "[minecraft:obsidian]"			
+        ]
+	},	
+    {
+        "mode": "ADD",
+        "result": "[enderio:blockTransceiver]",
+        "catalyst": "[mekanism:MachineBlock3]",
+        "energy": 10000000,
+        "tier": 1,
+        "ingredients": [
+            "[mekanism:Ingot]",
+            "[mekanism:Ingot]",
+            "[mekanism:Ingot]",
+            "[mekanism:Ingot]",
+			"[appliedenergistics2:quartz_vibrant_glass]",
+            "[appliedenergistics2:quartz_vibrant_glass]",
+            "[forge:bucketFilled].withTag({FluidName: "mana", Amount: 1000})",
+			"[enderio:itemFrankenSkull:4]",
+            "[enderio:itemBasicCapacitor:2]"
+        ]
+    },	
+
+]

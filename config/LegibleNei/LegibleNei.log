@@ -15,9 +15,9 @@ keep: |default|default|MASK|default|default|MASK|MASK|MASK|MASK|
 keep-onei: |oneid|oneid|default|oneid|oneid|default|default|default|default|
 show: |SHOW|SHOW|default|SHOW|SHOW|default|default|default|default|
 ----------------------------------------------------
-6890 items registered
+7006 items registered
 55 filters loaded
-1121 items matched in 103 ms
+1121 items matched in 170 ms
 ----------------------------------------------------
 
 - actuallyadditions :

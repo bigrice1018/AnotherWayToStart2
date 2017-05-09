@@ -40,7 +40,7 @@ chatHeightUnfocused:0.44366196
 chatScale:1.0
 chatWidth:1.0
 showInventoryAchievementHint:false
-mipmapLevels:4
+mipmapLevels:0
 forceUnicodeFont:false
 reducedDebugInfo:false
 useNativeTransport:true
@@ -52,7 +52,7 @@ realmsNotifications:true
 enableWeakAttacks:false
 autoJump:false
 soundCategory_master:0.5
-soundCategory_music:1.0
+soundCategory_music:0.1
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

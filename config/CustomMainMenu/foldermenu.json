@@ -223,14 +223,14 @@
 			"action" : 
             {
                 "type" : "openLink",
-                "link" : "https://github.com/bigrice1018/AnotherWayToStart/issues"
+                "link" : "https://github.com/bigrice1018/AnotherWayToSurvivalServer/issues"
             }
         },
 		
 		"conversation":
         {
             "text" : "",
-			"tooltip": "FTB Thread",
+			"tooltip": "Curse Thread",
             "posX" : -83,
             "posY" : 70,
             "width" : 20,
@@ -242,14 +242,14 @@
 			"action" : 
             {
                 "type" : "openLink",
-                "link" : "http://forum.feed-the-beast.com/threads/1-7-10-another-way-to-start-v-1-2-3-2-step-by-step-fresh-survival-stable-250-mods-hqm-wip.154391/"
+                "link" : "https://minecraft.curseforge.com/projects/another-way-to-survival-awts-2"
             }
         },
 		
 		"blog":
         {
             "text" : "",
-			"tooltip": "Changelog",
+			"tooltip": "Blog(Coming Soon)",
             "posX" : -83,
             "posY" : 100,
             "width" : 20,
@@ -261,7 +261,7 @@
 			"action" : 
             {
                 "type" : "openLink",
-                "link" : "https://github.com/bigrice1018/AnotherWayToStart/releases/latest"
+                "link" : ""
             }
         },
 		
